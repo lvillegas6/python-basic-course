@@ -27,8 +27,7 @@ def sum(numberOne, numberTwo):
 total = sum(10, 30)
 print(total)
 
-# lambda
-
+# lambda (como las arrow functions de JS)
 sum2 = lambda numberOne, numberTwo: numberOne + numberTwo
 
 total2 = sum2(10, 30)

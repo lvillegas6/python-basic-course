@@ -1,5 +1,6 @@
 x = (1, 2, 3)
 y = tuple((1, 2, 3))
+
 print(x)
 print(y)
 
@@ -17,3 +18,6 @@ locations = {
     (35.123, 39.000): 'Tokyo',
     (31.123, 32.000): 'EE.UU'
 }
+
+# asignar valores de una tupla en variables
+a, b, c = x
